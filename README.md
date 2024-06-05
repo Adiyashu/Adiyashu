@@ -11,7 +11,7 @@
 
 ## Glad to see you here! &nbsp;  
 
-I am a Computer Science student but ih hobby is taken into account I am cricket player,writer,watcher and a good listener.
+I am a Computer Science student but If hobby is taken into account I am cricket player,writer,watcher and a good listener.
 
 As a Computer Science grad, I enjoy using my obsessive attention to detail in the world of mostly into  developmnent data and try to bring a change in that data using my knowledge
 
