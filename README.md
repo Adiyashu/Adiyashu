@@ -26,7 +26,7 @@ That's why I think I am different from rest of homosapians.
 - 👨‍🎓 I'm a **Computer Engineering Student**
 - 🔭 I’m currently working on Portfolios Projects using Power BI
 - 💬 Ask me about anything, If i can help,I'll If not,you do
-- ✍ I'm a **Jr. Photographer Cum Writer** <a href="https://www.instagram.com/__aadiyashu_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aadiyashu_" height="30" width="40" /></a>
+- ✍ I'm a **Jr. Photographer Cum Writer** <a href="https://www.instagram.com/_aadiyashu_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aadiyashu_" height="30" width="40" /></a>
 &nbsp;
 
 - 🌱 I'm currently into a learning phase of Adv.
