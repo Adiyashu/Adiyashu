@@ -1,4 +1,4 @@
-# Welcome to [Aditya Mani's](https://aswinbarath.me/) profile! <a href="https://www.Adiyashu/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Aditya Mani's] profile! <a href="https://www.Adiyashu/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/aditya_mani/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya_mani" height="30" width="40" /></a>
 &nbsp;
