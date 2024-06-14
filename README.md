@@ -29,7 +29,7 @@ That's why I think I am different from rest of homosapians.
 - ✍ I'm a **Jr. Photographer Cum Writer** <a href="https://www.instagram.com/_aadiyashu_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aadiyashu_" height="30" width="40" /></a>
 &nbsp;
 - 🌱 I'm currently into a learning phase of Adv.
-  > Data Structures and Algorithms[LeetCode](https://leetcode.com/Aditya__Mani/)
+  > Data Structures and Algorithms [LeetCode](https://leetcode.com/Aditya__Mani/)
 - 📬 How to reach me: [maniaditya293@gmail.com@gmail.com](mailto:maniaditya293@gmail.com@gmail.com)
 - 📝 Resume
 - 💪 This is where I write, code and solve problems:
