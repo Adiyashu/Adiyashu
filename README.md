@@ -31,7 +31,7 @@ That's why I think I am different from rest of homosapians.
 - 🌱 I'm currently into a learning phase of Adv.
   > Data Structures and Algorithms [LeetCode](https://leetcode.com/Aditya__Mani/)
 - 📬 How to reach me: [maniaditya293@gmail.com@gmail.com](mailto:maniaditya293@gmail.com@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/18JT62zaX2dzS8bH3PzTMePafTJ0Sf9mx/view?usp=drivesdk)
+- 📝 [Resume](https://drive.google.com/file/d/1zGqRBY_Fz9VvvJ3qWCG7CoBGFGZde9ag/view?usp=drivesdk)
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
